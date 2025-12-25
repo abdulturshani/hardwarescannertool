@@ -1,0 +1,5 @@
+{
+  "name": "RAM Tracker AI",
+  "description": "Real-time RAM price tracking and deal finding across major retailers using Gemini AI with Google Search Grounding.",
+  "requestFramePermissions": []
+}
